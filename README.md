@@ -1,7 +1,3 @@
-Here's a `README.md` template for your Library Management System project. This file includes an overview, setup instructions, and usage guidelines, making it easy for others to understand and use your project.
-
----
-
 # Library Management System
 
 A simple Library Management System in C++ to manage books in a library. This project allows users to add, search, update, delete, and display book details through a console-based interface. It demonstrates fundamental concepts of C++ programming such as structs, arrays, and basic input/output operations.
